@@ -6,7 +6,6 @@
 
 ## Lazy but efficient
 
-A table with the following structure:
 
 |                    |                          |
 |--------------------|--------------------------|
@@ -38,7 +37,7 @@ A table with the following structure:
 
 ## A funny story
 
-When I was in 3rd grade, we went for a school trip in the Dutch part of Belgium. Already at the time, I was known for disliking the language, but it was a mandatory trip so I just rolled along, trying to not appear too much bored. Suddenly, my knee gave up and I could not walk anymore; I had to be put in a train to get back home early. I had to get a few days rest so I couldn't attend school either afterwards. 
+When I was in 3rd grade, we went for a school trip in the Dutch part of Belgium. Already at the time, I was known for disliking the language, but it was a mandatory trip so I just rolled along, trying to not appear too much bored. Suddenly, my knee gave up and I could not walk anymore; I had to be put in a train to get back home early. I had to get a few days rest so I couldn't attend school either afterwards. <br>
 However, the school believed that I did not have any problem with my knee and that it was all a scene in order to disturb the school trip. In the end, they ended up expelling me from the school due to that.
 
 ### TL;DR
