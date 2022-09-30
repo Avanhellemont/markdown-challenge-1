@@ -13,7 +13,7 @@ A table with the following structure:
 | Birthday           | 08/06      |
 | Favorite Color     | Red        |
 | Favorite Food      | Spaghettis |
-| Pineapple on Pizza | [ ]        |
+| Pineapple on Pizza | - [ ]      |
 
 
 ## Hobbies
